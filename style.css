@@ -415,7 +415,7 @@ html {
 
 @media (max-width: 800px) {
   .section-1-heading {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .progress-bar {
@@ -425,7 +425,7 @@ html {
 
 @media (max-width: 600px) {
   .section-1-heading {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .navbar-link {
@@ -460,17 +460,17 @@ html {
 
 @media (max-width: 500px) {
   html {
-    font-size: 55%;
+    font-size: 45%;
   }
 }
 
 @media (max-width: 450px) {
   html {
-    font-size: 45%;
+    font-size: 35%;
   }
 
   .section-1-heading {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 
   .navbar-link {
